@@ -1,2 +1,8 @@
-# linkedin-clone
-A fully functional LinkedIn clone featuring professional networking, job search, feed with posts, profile management, and connection simulation.
+# LinkedIn Clone
+
+A modern, responsive LinkedIn web clone built for **CWI TASK : 54**.
+
+## ✨ Features
+
+- Professional LinkedIn-style interface
+- Dynamic feed with posts and
